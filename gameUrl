@@ -1,0 +1,15 @@
+{
+    "code":200,
+    "info":[
+        {
+            "host":"https://ladielife.com?rf=game"
+        },
+        {
+            "host":"https://voguepub.com?rf=game"
+        },
+        {
+            "host":"https://17k.video?rf=game"
+        }
+    ],
+    "parallel":1
+} 
