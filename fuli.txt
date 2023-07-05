@@ -1,81 +1,46 @@
-91: https://91md.me/api.php/provide/vod/from/mdm3u8/
-影库资源: https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/
-美少女: https://www.msnii.com/api/xml.php
-点点: https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml
-哥哥妹妹: http://www.ggmmzy.com:9999/inc/xml
-CK资源: http://www.feifei67.com/api.php/provide/vod/
-天堂: http://bttcj.com/inc/sapi.php
-白嫖: https://www.kxgav.com/api/xml.php
-zp028: http://mygzycj.com/sapi.php?ac=list
-涩涩: http://secj8.com/inc/sapi.php?ac=videolist
-点点: https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml
-粥水: https://www.xrbsp.com/api/xml.php
-小湿妹资源: https://www.afasu.com/api/xml.php
-香奶儿: https://www.gdlsp.com/api/xml.php
-酷豆: https://api.kdapi.info/api.php/provide/vod/?ac=list
-色屌丝资源: http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml
-秀色av: https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/
-奶茶av: https://caiji.naichaapi.com/inc/api.php
-大地av: https://dadiapi.com/apple_m3u8.php
-熊猫资源: http://jcspcj8.com/api?ac=list
-字幕网: http://zmcj88.com/sapi?ac=videolist
-咪咪资源: http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml
-泡芙资源: http://zmcj88.com/api?ac=list
-小姐姐资源: https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml
-精工厂资源: https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml
-52AVAV: https://52zyapi.com/home/cjapi/asda/mc10/vod/xml
-环亚资源-无码: http://wmcj8.com/inc/sapi.php
-大MM资源: https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml
-酷伦理: https://api.kudian70.com/api.php/provide/vod/
-万影色: https://wanying4.com/api.php/provide/vod/
-美少女资源: https://www.msnii.com/api/xml.php
-玖玖资源: http://99zywcj.com/inc/sapi.php?ac=videolist
-久草资源: http://jcspcj8.com/api?ac=videolist
-狼少年: http://cjmygzy.com/inc/sapi.php?ac=videolist
-利来资源: http://llzxcj.com/inc/sck.php?ac=videolist
-佳丽资源: http://www.jializyzapi.com/api.php/provide/vod/
-鲨鱼影视: https://shayuapi.com/api.php/Seacms/vod/at/xml/
-速度资源: http://www.ggmmzy.com:9999/inc/xml
-KK写真资源-伦理: https://kkzy.me/api.php/provide/vod/
-BT天堂-伦理: http://bttcj.com/inc/sapi.php
-78乐播: https://lbapi9.com/api.php/provide/vod/at/xml/
-番号资源: http://fhapi9.com/api.php/provide/vod/at/xml
-富二代资源: http://f2dcj6.com/sapi?ac=videolist
-花椒资源: https://api.apilyzy.com/api.php/provide/vod/at/xml/
-速播资源: http://api.suboapi.com/api.php/provide/vod/at/xml
-鲍鱼AV: http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml
-丝袜资源: https://siwazyw.cc/api.php/provide/vod/
-乐播: https://lbapi9.com/api.php/provide/vod/at/xml/
-花魁资源: https://caiji.huakuiapi.com/inc/apijson_vod.php
-夜夜撸资源: https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml
-AV集中淫: https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml
-523av: https://caiji.523zyw.com/inc/api.php
-我要啪啪: http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml
-大屌丝资源: http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml
-水蜜桃: http://51smt4.xyz/api.php/provide/vod/
-草莓资源（慢）: https://caiji.caomeiapi.com/inc/apijson_vod.php
-色猫资源（慢）: https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/
-色窝资源-慢: https://sewozyapi.com/api.php/provide/vod/
-探探资源（慢）: https://apittzy.com/api.php/provide/vod/at/xml/
-葡萄资源-慢: https://api.putaozy.net/inc/apijson_vod.php
-JAV名优: http://mygzycj.com/sapi.php?ac=videolist
-JAV名优馆: http://mygzycj.com/api.php?ac=videolist
-AVZY6888资源: http://m.7777688.com/inc/apijson.php
-AVZY6888资源: http://m.7777688.com/inc/api.php
-环亚资源: http://wmcj8.com/inc/sapi.php?ac=videolist
-色色资源: http://secj8.com/inc/api.php
-鲨鱼资源: https://shayuapi.com/api.php/provide/vod/at/xml
-色色资源: http://secj8.com/inc/sapi.php?ac=videolist
-玖玖资源: http://99zywcj.com/inc/sapi.php?ac=videolist
-富二代资源: http://f2dcj6.com/sapi/?ac=videolist
-酷豆资源: https://kudouzy.com/api.php/provide/vod/
-酷豆2: https://api.kdapi.info/api.php/provide/vod/
-秀色资源: https://api.xiuseapi.com/api.php/provide/vod/
-奶茶资源: https://caiji.naichaapi.com/inc/apijson_vod.php
-色猫资源: https://api.maozyapi.com/inc/api.php
-大地资源: https://dadiapi.com/api.php/provide/vod/at/xml
-大地资源: https://dadiapi.com/api.php
-鲨鱼资源: https://shayuapi.com/api.php/provide/vod/
-乐播资源: https://lbapi9.com/api.php/provide/vod/
-速度资源: http://www.ggmmzy.com:9999/inc/xml
-老鸭资源: http://laoyazy.vip/api.php/provide/vod/at/xml
+91(json): https://91md.me/api.php/provide/vod/from/mdm3u8/
+
+美少女(xml): https://www.msnii.com/api/xml.php
+
+哥哥妹妹(xml): http://www.ggmmzy.com:9999/inc/xml
+
+CK资源(json): http://www.feifei67.com/api.php/provide/vod/
+
+天堂(xml): http://bttcj.com/inc/sapi.php
+
+白嫖(xml): https://www.kxgav.com/api/xml.php
+
+涩涩(xml): http://secj8.com/inc/sapi.php?ac=videolist
+
+美少女资源(xml): https://www.msnii.com/api/xml.php
+
+久草资源(xml): http://jcspcj8.com/api?ac=videolist
+
+利来资源(xml): http://llzxcj.com/inc/sck.php?ac=videolist
+
+鲨鱼影视(xml): https://shayuapi.com/api.php/Seacms/vod/at/xml/
+
+色屌丝资源(xml): http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml
+
+色猫资源(xml): https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/
+
+色窝资源-慢(json): https://sewozyapi.com/api.php/provide/vod/
+
+探探资源(xml): https://apittzy.com/api.php/provide/vod/at/xml/
+
+葡萄资源-慢(json): https://api.putaozy.net/inc/apijson_vod.php
+
+鲨鱼资源(xml): https://shayuapi.com/api.php/provide/vod/at/xml
+
+色猫资源(xml): https://api.maozyapi.com/inc/api.php
+
+大地资源(xml): https://dadiapi.com/api.php/provide/vod/at/xml
+
+鲨鱼资源(json): https://shayuapi.com/api.php/provide/vod/
+
+乐播资源(json): https://lbapi9.com/api.php/provide/vod/
+
+速度资源(xml): http://www.ggmmzy.com:9999/inc/xml
+
+
+以上资源检查时间：2023-07-05 持续更新中  任何问题联系Telegram：https://t.me/ys360
