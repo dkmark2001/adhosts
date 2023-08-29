@@ -363,5 +363,6 @@
         }
 
     ],
-    "parallel":1
+    "parallel":1,
+    "per":50
 } 
