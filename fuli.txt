@@ -1,3 +1,5 @@
+****福利源添加帮助教程*****：https://jrystv.com  
+
 91(json): https://91md.me/api.php/provide/vod/from/mdm3u8/
 
 美少女(xml): https://www.msnii.com/api/xml.php
