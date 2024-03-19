@@ -1,48 +1,24 @@
 ****福利源添加帮助教程*****：https://jrystv.com  
 
-91(json): https://91md.me/api.php/provide/vod/from/mdm3u8/
+黄瓜(json) https://www.avre06.com/api.php/provide/vod/?ac=list
 
 美少女(xml): https://www.msnii.com/api/xml.php
-
-哥哥妹妹(xml): http://www.ggmmzy.com:9999/inc/xml
-
-CK资源(json): http://www.feifei67.com/api.php/provide/vod/
 
 天堂(xml): http://bttcj.com/inc/sapi.php
 
 白嫖(xml): https://www.kxgav.com/api/xml.php
 
-涩涩(xml): http://secj8.com/inc/sapi.php?ac=videolist
-
 美少女资源(xml): https://www.msnii.com/api/xml.php
-
-久草资源(xml): http://jcspcj8.com/api?ac=videolist
-
-利来资源(xml): http://llzxcj.com/inc/sck.php?ac=videolist
-
-鲨鱼影视(xml): https://shayuapi.com/api.php/Seacms/vod/at/xml/
-
-色屌丝资源(xml): http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml
 
 色猫资源(xml): https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/
 
-色窝资源-慢(json): https://sewozyapi.com/api.php/provide/vod/
-
 探探资源(xml): https://apittzy.com/api.php/provide/vod/at/xml/
-
-葡萄资源-慢(json): https://api.putaozy.net/inc/apijson_vod.php
-
-鲨鱼资源(xml): https://shayuapi.com/api.php/provide/vod/at/xml
 
 色猫资源(xml): https://api.maozyapi.com/inc/api.php
 
 大地资源(xml): https://dadiapi.com/api.php/provide/vod/at/xml
 
-鲨鱼资源(json): https://shayuapi.com/api.php/provide/vod/
-
 乐播资源(json): https://lbapi9.com/api.php/provide/vod/
-
-速度资源(xml): http://www.ggmmzy.com:9999/inc/xml
 
 
 以上资源检查时间：2023-07-05 持续更新中  任何问题联系Telegram：https://t.me/ys360
