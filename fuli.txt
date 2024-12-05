@@ -1,22 +1,6 @@
 ****福利源添加帮助教程*****：https://jrystv.com  
-以上资源检查时间：2024-11-26 持续更新中  任何问题联系Telegram：https://t.me/ys360
+以上资源检查时间：2024-12-05 持续更新中  任何问题联系Telegram：https://t.me/ys360
 
-黄瓜(json) https://www.avre06.com/api.php/provide/vod/?ac=list
-
-美少女(xml): https://www.msnii.com/api/xml.php
-
-天堂(xml): http://bttcj.com/inc/sapi.php
-
-白嫖(xml): https://www.kxgav.com/api/xml.php
-
-美少女资源(xml): https://www.msnii.com/api/xml.php
-
-色猫资源(xml): https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/
-
-探探资源(xml): https://apittzy.com/api.php/provide/vod/at/xml/
-
-色猫资源(xml): https://api.maozyapi.com/inc/api.php
-
-大地资源(xml): https://dadiapi.com/api.php/provide/vod/at/xml
+银狐(json): https://api.bwzym3u8.com/api.php/provide/vod/at/json/
 
 乐播资源(json): https://lbapi9.com/api.php/provide/vod/
